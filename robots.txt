@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://alptugozer.com/sitemap.xml
